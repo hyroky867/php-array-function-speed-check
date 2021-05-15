@@ -1,0 +1,1 @@
+# php-array-function-speed-check
